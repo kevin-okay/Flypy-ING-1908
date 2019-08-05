@@ -1,6 +1,6 @@
 # 小鹤音形挂接
 
-[![](https://img.shields.io/badge/小鹤-挂接-red.svg)](http://www.xinshuru.com/index.html?p=win)  [![](https://img.shields.io/badge/小鹤-双拼-red.svg)](https://www.flypy.com/)  [![](https://img.shields.io/badge/小鹤-鹤形-red.svg)](https://www.flypy.com/)  [![](https://img.shields.io/badge/安卓-手心输入法-blue.svg)](http://www.xinshuru.com/index.html?p=win)
+[![](https://img.shields.io/badge/小鹤-挂接-red.svg)](https://www.flypy.com/) [![](https://img.shields.io/badge/小鹤-双拼-red.svg)](https://www.flypy.com/) [![](https://img.shields.io/badge/小鹤-鹤形-red.svg)](https://www.flypy.com/) [![](https://img.shields.io/badge/安卓-手心输入法-blue.svg)](http://www.xinshuru.com/index.html?p=win)
 
 小鹤字词库与鹤形辅助码，主要适用于安卓端中的手心输入法。:yum:
 
